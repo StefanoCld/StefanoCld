@@ -25,6 +25,6 @@
 
 </br>
 
-## Connect with me:
+## Contacts:
 [<img align="left" alt="Outlook" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/b/b3/Microsoft_Outlook_logo_%282024%E2%80%932025%29.svg"/>](mailto:caldana.stefano@hotmail.it)
 [<img align="left" alt="Linkedin" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/8/81/LinkedIn_icon.svg"/>](https://www.linkedin.com/in/stefano-caldana-974882237/)
