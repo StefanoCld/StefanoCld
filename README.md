@@ -10,15 +10,15 @@
 </br>
 
 ## Projects:
-- [ [Play](https://fraffer.itch.io/of-planets-and-guns) [Trailer](https://www.youtube.com/watch?v=cwuhBsFptu0&embeds_referring_euri=https%3A%2F%2Ffraffer.itch.io%2F&source_ve_path=MjM4NTE) [Repo](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master) ] **Of Planets and Guns : FPS made in Unreal for Master Course final project**
+- [ [Play](https://fraffer.itch.io/of-planets-and-guns) [Trailer](https://www.youtube.com/watch?v=cwuhBsFptu0&embeds_referring_euri=https%3A%2F%2Ffraffer.itch.io%2F&source_ve_path=MjM4NTE) [Repo](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master) ] **Of Planets and Guns : an FPS made in Unreal Engine for Master Course final project**
 - [ [Trailer](https://www.youtube.com/watch?v=9YK8cyjQZOg) ] **Hololens AR App made with Unity for a University project**
 
 ## Small projects:
-- [**C++ Ascii-art raycaster**][https://github.com/StefanoCld/TinyEngine]
-- [**Unity project about a goofy physics-driven controller**][https://github.com/StefanoCld/physicsprog]
-- [**Chess-like PvP online Unity game**][https://github.com/ErDuca/War-of-the-Dukes]
-- [**Unity/Photon small networking project**][https://github.com/StefanoCld/match3]
-- [**Match-3 Unity clone**][https://github.com/StefanoCld/NetworkProgramming]
+- [**C++ Ascii-art raycaster**](https://github.com/StefanoCld/TinyEngine)
+- [**Unity project about a goofy physics-driven controller**](https://github.com/StefanoCld/physicsprog)
+- [**Chess-like PvP online Unity game**](https://github.com/ErDuca/War-of-the-Dukes)
+- [**Unity/Photon small networking project**](https://github.com/StefanoCld/match3)
+- [**Match-3 Unity clone**](https://github.com/StefanoCld/NetworkProgramming)
   
 ## Game Jams:
 [<img align="left" alt="Itch.io" width="128px" src="https://static.itch.io/images/logo-white-new.svg"/>](https://cialdi.itch.io/)
