@@ -18,8 +18,7 @@
 - [**C++ Ascii-art raycaster**](https://github.com/StefanoCld/TinyEngine)
 - [**Unity project about a goofy physics-driven controller**](https://github.com/StefanoCld/physicsprog)
 - [**Chess-like PvP online Unity game**](https://github.com/ErDuca/War-of-the-Dukes)
-- [**Unity/Photon small networking project**](https://github.com/StefanoCld/match3)
-- [**Match-3 Unity clone**](https://github.com/StefanoCld/NetworkProgramming)
+- [**Unity/Photon small networking project**](https://github.com/StefanoCld/NetworkProgramming)
   
 ## Game Jams:
 [<img align="left" alt="Itch.io" width="128px" src="https://static.itch.io/images/logo-white-new.svg"/>](https://cialdi.itch.io/)
