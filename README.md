@@ -6,7 +6,7 @@
 <img align="left" alt="Cpp" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Godot" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Godot_icon.svg"/>
 <img align="left" alt="Blender" width="32px" src="https://upload.wikimedia.org/wikipedia/commons/0/0c/Blender_logo_no_text.svg"/>
-<img align="left" alt="Unity" width="128px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
+<img align="left" alt="Unity" width="64px" src="https://upload.wikimedia.org/wikipedia/commons/1/19/Unity_Technologies_logo.svg"/>
 
 </br>
 
