@@ -11,8 +11,8 @@
 </br>
 
 ## Projects:
-- [ [Play](https://fraffer.itch.io/of-planets-and-guns) [Trailer](https://www.youtube.com/watch?v=cwuhBsFptu0&embeds_referring_euri=https%3A%2F%2Ffraffer.itch.io%2F&source_ve_path=MjM4NTE) [Repo](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master) ] **Of Planets and Guns : an FPS made in Unreal Engine for Master Course final project**
-- [ [Trailer](https://www.youtube.com/watch?v=9YK8cyjQZOg) ] **Hololens AR App made with Unity for a University project**
+- [ [Play](https://fraffer.itch.io/of-planets-and-guns) [Trailer](https://www.youtube.com/watch?v=cwuhBsFptu0&embeds_referring_euri=https%3A%2F%2Ffraffer.itch.io%2F&source_ve_path=MjM4NTE) [Repo](https://gitlab.com/bug-society/of-planets-and-guns/-/tree/master) ] **Of Planets and Guns : an FPS made in Unreal Engine**
+- [ [Trailer](https://www.youtube.com/watch?v=9YK8cyjQZOg) ] **Hololens AR App made with Unity**
 
 ## Small projects:
 - [**C++ Ascii-art raycaster**](https://github.com/StefanoCld/TinyEngine)
